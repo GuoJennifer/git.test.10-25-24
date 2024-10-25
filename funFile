@@ -1,1 +1,3 @@
+#!/bin/bash
+
 echo "Wow Git is cool"
